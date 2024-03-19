@@ -18,7 +18,7 @@ ML coding module may or may not exist in particular companies interviews. The go
 
 * Neural networks 
   - Perceptron ([code](Plain/dl_perceptron.ipynb)) 
-  - FeedForward NN ([code](Plain/dl_nn.ipynb))
+  - FeedForward NN ([code](Plain/dl_nn_multiple_layers.ipynb))
   <!-- [code 1](https://github.com/alirezadir/deep-learning/blob/master/first-neural-network/my_answers.py),  -->
   <!-- [code 2](https://github.com/MahanFathi/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py)) -->
   - Softmax ([code](Plain/softmax.ipynb))
